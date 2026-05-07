@@ -1,0 +1,12 @@
+[project]
+name = "sales_automation"
+version = "0.0.1"
+description = "Sales Workflow Automation App"
+authors = [
+    { name = "Nexgen ERP", email = "info@nexgenerptechnologies.com" }
+]
+dependencies = [
+    "frappe",
+    "erpnext"
+]
+require-python = ">=3.10"

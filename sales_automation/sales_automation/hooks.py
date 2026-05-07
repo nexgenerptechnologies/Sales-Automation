@@ -1,0 +1,6 @@
+app_name = "sales_automation"
+app_title = "Sales Automation"
+app_publisher = "Nexgen ERP"
+app_description = "Sales Workflow Automation App"
+app_email = "info@nexgenerptechnologies.com"
+app_license = "mit"

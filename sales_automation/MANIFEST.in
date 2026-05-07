@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sales_automation *.css
+recursive-include sales_automation *.csv
+recursive-include sales_automation *.html
+recursive-include sales_automation *.ico
+recursive-include sales_automation *.js
+recursive-include sales_automation *.json
+recursive-include sales_automation *.md
+recursive-include sales_automation *.png
+recursive-include sales_automation *.py
+recursive-include sales_automation *.svg
+recursive-include sales_automation *.txt
+recursive-exclude sales_automation *.pyc
